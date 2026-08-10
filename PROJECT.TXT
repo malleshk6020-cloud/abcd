@@ -1,3 +1,6 @@
 <html>
 <head>
-<title>star</tital>
+<title>star</title>
+</head>
+
+
